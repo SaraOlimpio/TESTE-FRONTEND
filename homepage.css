@@ -1,0 +1,1189 @@
+header {
+position: fixed;
+width: 1600px;
+height: 38px;
+left: -2px;
+top: -1px;
+text-align: center;
+background: #041E50;
+color: #FFFFFF;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+}
+
+/*Linha 16-67, seletores para o menu fixo*/
+#compra {
+position: absolute;
+width: 180px;
+height: 10px;
+left: 172px;
+top: 15px;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 10px;
+color: #FFFFFF;
+}
+
+#troca {
+position: absolute;
+width: 230px;
+height: 10px;
+left: 468px;
+top: 15px;    
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 10px;
+color: #FFFFFF;
+}
+
+#juros {
+position: absolute;
+width: 320px;
+height: 10px;
+left: 730px;
+top: 15px;    
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 10px;
+color: #FFFFFF;
+}
+
+#brasil {
+position: absolute;
+width: 500px;
+height: 10px;
+left: 983px;
+top: 15px;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 10px;
+color: #FFFFFF;
+}
+
+/*Linha 70-85, seletores para campo de busca*/
+#divBusca{
+position: absolute;
+left: 361px;
+top: 54px;    
+border-radius: 4px;
+}
+
+#txtBusca {
+position: absolute;
+width: 339px;
+height: 41px;
+left: 55px;
+top: 10px; 
+font-family: Lato;
+font-size: 9px;
+}
+
+/*Linha 90-154, seletores para o logo clicável e informações adicionais*/
+#ninja{
+position: absolute;
+width: 500px;
+height: 38px;
+left: 150px;
+top: 68px;
+background: url(imagem/ninja.PNG);
+}
+
+#telefone{
+position: absolute;
+width: 83px;
+height: 10px;
+left: 850px;
+top: 80px;
+font-family: Lato;
+font-weight: bold;
+font-size: 10px;
+letter-spacing: 0.10em;
+color: #041E50;
+}
+
+#usuario{
+position: absolute;
+width: 100px;
+height: 10px;
+left: 1028px;
+top: 70px;    
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 10px;    
+letter-spacing: 0.10em;
+color: #041E50;
+}
+
+#conta{
+position: absolute;
+width: 87px;
+height: 7px;
+left: 1028px;
+top: 85px;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 7px;
+letter-spacing: 0.10em;
+color: #041E50;
+}
+
+.carrinho{
+position: absolute;
+width: 95px;
+height: 102px;
+left: 1220px;
+top: 37px;
+background: #041E50;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 10px;
+line-height: 100%;
+letter-spacing: 0.09em;
+color: #FFFFFF;
+}
+
+/*Linha 156-233, seletores para organização do menu navegável*/
+.menu {
+position: absolute;
+width: 129px;
+height: 10px;
+left: 140px;
+top: 20px;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 10px;
+color: #041E50;
+}
+
+#categoria{
+position: absolute;
+width: 200px;
+height: 10px;
+left: 140px;
+top: 128px;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 10px;
+color: #041E50;
+}
+
+#som{
+position: absolute;
+width: 200px;
+height: 10px;
+left: 352px;
+top: 128px;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 10px;
+color: #041E50;
+}
+
+#instrumentos{
+position: absolute;
+width: 200px;
+height: 10px;
+left: 555px;
+top: 128px;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 10px;
+color: #041E50;
+}
+
+#promo{
+position: absolute;
+width: 200px;
+height: 10px;
+left: 794px;
+top: 128px;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 10px;
+color: #041E50;
+}
+
+#contato{
+position: absolute;
+width: 200px;
+height: 10px;
+left: 949px;
+top: 128px;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 10px;
+color: #041E50;
+}
+
+/*Linha 234-301, seletores para organização do banner */
+.banner {
+position: absolute;
+width: 1550px;
+height: 504px;
+left: 1px;
+top: 195px;
+background: url(imagem/banner2);
+background-size: cover;
+}
+
+#novosProdutos{
+position: absolute;
+width: 229px;
+height: 16px;
+left: 280px;
+top: 94px;
+font-family: Lato;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+color: #FFFFFF;
+}
+
+#instru{
+position: absolute;
+width: 414px;
+height: 47px;
+left: 166px;
+top: 140px;
+font-family: Lato;
+font-weight: bold;
+font-size: 47px;
+color: #FFFFFF;
+}
+
+#profissionais{
+position: absolute;
+width: 403px;
+height: 47px;
+left: 180px;
+top: 184px;
+font-family: Lato;
+font-weight: 300;
+font-size: 47px;
+color: #FFFFFF;
+}
+
+#confira{
+position: absolute;
+width: 111px;
+height: 31px;
+left: 325px;
+top: 280px;
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+color: #FFFFFF;
+}
+
+#traço{
+position: absolute;
+width: 77px;
+height: 0px;
+left: 315px;
+top: 300px;
+border: 1px solid #FFFFFF;
+}
+
+/*Linha 304-440 seletores para imagem*/
+#primeira{
+position: absolute;
+width: 106px;
+height: 106px;
+left: 140px;
+top: 725px;
+background: url(imagem/guitarra_redonda);
+}
+
+#guitarra{
+position: absolute;
+width: 88px;
+height: 14px;
+left: 149px;
+top: 850px;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+letter-spacing: 0.09em;
+color: #000000;
+}
+
+#segunda{
+position: absolute;
+width: 106px;
+height: 105px;
+left: 405px;
+top: 725px;
+background: url(imagem/microfone_redonda);
+}
+
+#microfone{
+position: absolute;
+width: 104px;
+height: 14px;
+left: 400px;
+top: 850px;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+letter-spacing: 0.09em;
+color: #000000;
+}
+
+#terceira{
+position: absolute;
+width: 106px;
+height: 105px;
+left: 680px;
+top: 725px;
+background: url(imagem/mesa_redonda);
+}
+
+#mesa{
+position: absolute;
+width: 120px;
+height: 14px;
+left: 675px;
+top: 850px;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+letter-spacing: 0.09em;
+color: #000000;
+}
+
+#quarta{
+position: absolute;
+width: 106px;
+height: 105px;
+left: 930px;
+top: 725px;
+background: url(imagem/teclado_redonda);
+}
+
+#teclado{
+position: absolute;
+width: 81px;
+height: 14px;
+left: 940px;
+top: 850px;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+letter-spacing: 0.09em;
+color: #000000;
+}
+
+#quinta{
+position: absolute;
+width: 106px;
+height: 105px;
+left: 1145px;
+top: 725px;
+background: url(imagem/violao_redonda);
+}
+
+#violao{
+position: absolute;
+width: 60px;
+height: 14px;
+left: 1150px;
+top: 850px;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+letter-spacing: 0.09em;
+color: #000000;
+}
+
+#sexta{
+position: absolute;
+width: 106px;
+height: 105px;
+left: 1340px;
+top: 725px;
+background: url(imagem/bateria_redonda);
+}
+
+#bateria{
+position: absolute;
+width: 74px;
+height: 14px;
+left: 1350px;
+top: 850px;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+letter-spacing: 0.09em;
+color: #000000;
+}
+
+.aside1{
+position: absolute;
+float: left;
+width: 780px;
+height: 386px;
+top: 910px;
+background-size: cover;
+background: linear-gradient(180deg, rgba(77, 77, 77, 0) 6.66%, rgba(39, 39, 39, 0.7) 63.18%), url(imagem/aside1);
+}
+
+#novi{
+position: absolute;
+width: 116px;
+height: 13px;
+left: 264px;
+top: 100px;
+font-family: Lato;
+font-weight: 300;
+font-size: 13px;
+letter-spacing: 0.4em;
+color: #FFFFFF;
+}
+
+#trac{
+position: absolute;
+width: 18px;
+height: 1px;
+left: 314px;
+top: 120px;
+background: #FFFFFF;
+border-radius: 5px;
+}
+
+#audio{
+position: absolute;
+width: 150px;
+height: 41px;
+left: 244px;
+top: 145px;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 41px;
+line-height: 100%;
+letter-spacing: 0.09em;
+color: #FFFFFF;
+}
+
+#profi{
+position: absolute;
+width: 327px;
+height: 40px;
+left: 157px;
+top: 185px;
+font-family: Lato;
+font-style: normal;
+font-weight: 300;
+font-size: 40px;
+letter-spacing: 0.12em;
+color: #FFFFFF;
+}
+
+#conf{
+position: absolute;
+width: 65px;
+height: 13px;
+left: 287px;
+top: 290px;
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 100%;
+letter-spacing: 0.1em;
+color: #FFFFFF;
+}
+
+#bordacon{
+position: absolute;
+width: 154px;
+height: 52px;
+left: 243px;
+top: 270px;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 5px;
+}
+
+.aside2{
+position:absolute;
+width: 780px;
+height: 386px;
+left: 741px;
+top: 910px;
+background-size: cover;
+background: linear-gradient(180deg, rgba(77, 77, 77, 0) 6.66%, rgba(39, 39, 39, 0.7) 63.18%), url(imagem/aside2);
+}
+
+#novid{
+position: absolute;
+width: 116px;
+height: 13px;
+left: 284px;
+top: 100px;
+font-family: Lato;
+font-weight: 300;
+font-size: 13px;
+letter-spacing: 0.4em;
+color: #FFFFFF;
+}
+
+#tracinho{
+position: absolute;
+width: 18px;
+height: 1px;
+left: 334px;
+top: 120px;
+background: #FFFFFF;
+border-radius: 5px;
+}
+
+#instrum{
+position: absolute;
+width: 150px;
+height: 41px;
+left: 170px;
+top: 145px;
+font-family: Lato;
+font-weight: bold;
+font-size: 41px;
+letter-spacing: 0.09em;
+color: #FFFFFF;
+}
+
+#musicais{
+position: absolute;
+width: 327px;
+height: 40px;
+left: 247px;
+top: 185px;
+font-family: Lato;
+font-weight: 300;
+font-size: 40px;
+letter-spacing: 0.12em;
+color: #FFFFFF;
+}
+
+#confir{
+position: absolute;
+width: 65px;
+height: 13px;
+left: 287px;
+top: 290px;
+font-family: Lato;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+letter-spacing: 0.1em;
+color: #FFFFFF;
+}
+
+#bordinha{
+position: absolute;
+width: 154px;
+height: 52px;
+left: 243px;
+top: 270px;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 5px;
+}
+
+#texto{
+position: absolute;
+width: 250px;
+height: 60px;
+left: 600px;
+top: 1385px;
+font-family: Lato;
+font-weight: normal;
+font-size: 23px;
+color: #041E50;
+}
+
+#texto2{
+position: absolute;
+width: 250px;
+height: 60px;
+left: 790px;
+top: 1386px;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 23px;
+line-height: 100%;
+letter-spacing: 0.1em;
+color: #041E50;
+}
+
+#texto3{
+position: absolute;
+width: 601px;
+height: 15px;
+left: 480px;
+top: 1430px;
+font-family: Lato;
+font-weight: normal;
+font-size: 15px;
+letter-spacing: 0.1em;
+color: #222222;
+}
+
+#bat_eletr{
+position: absolute;
+width: 218px;
+height: 174px;
+left: 220px;
+top: 1500px;
+background: url(imagem/bateria_eletronica);
+}
+
+#titulo1{
+position: absolute;
+width: 132px;
+height: 15px;
+left: 250px;
+top: 1672px;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+letter-spacing: 0.05em;
+color: #041E50;
+}
+
+#descricao1{
+position: absolute;
+width: 166px;
+height: 30px;
+left: 230px;
+top: 1699px;
+font-family: Lato;
+font-style: normal;
+font-size: 10px;
+text-align: center;
+letter-spacing: 0.25em;
+color: #041E50;
+}
+
+#preco1{
+position: absolute;
+width: 102px;
+height: 18px;
+left: 260px;
+top: 1746px;
+font-family: Lato;
+font-weight: bold;
+font-size: 18px;
+line-height: 100%;
+text-align: center;
+letter-spacing: 0.05em;
+color: #041E50;
+}
+
+#kit_pratos{
+position: absolute;
+width: 218px;
+height: 174px;
+left: 500px;
+top: 1489px;
+background: url(imagem/kit_pratos);
+}
+
+#titulo2{
+position: absolute;
+width: 95px;
+height: 15px;
+left: 550px;
+top: 1672px;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+letter-spacing: 0.05em;
+color: #041E50;
+}
+
+#descricao2{
+position: absolute;
+width: 166px;
+height: 30px;
+left: 510px;
+top: 1699px;
+font-family: Lato;
+font-weight: 300;
+font-size: 10px;
+text-align: center;
+letter-spacing: 0.25em;
+color: #041E50;
+}
+
+#preco2{
+position: absolute;
+width: 102px;
+height: 18px;
+left: 550px;
+top: 1746px;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 100%;
+text-align: center;
+letter-spacing: 0.05em;
+color: #041E50;
+}
+
+#pedal{
+position: absolute;
+width: 218px;
+height: 174px;
+left: 780px;
+top: 1489px;
+background: url(imagem/pedal_duplo);
+}
+
+#titulo3{
+position: absolute;
+width: 179px;
+height: 15px;
+left: 800px;
+top: 1672px;
+font-family: Lato;
+font-weight: bold;
+font-size: 15px;
+letter-spacing: 0.05em;
+color: #041E50;
+}
+
+#descricao3{
+position: absolute;
+width: 166px;
+height: 30px;
+left: 805px;
+top: 1699px;
+font-family: Lato;
+font-weight: 300;
+font-size: 10px;
+text-align: center;
+letter-spacing: 0.25em;
+color: #041E50;
+}
+
+#preco3{
+position: absolute;
+width: 102px;
+height: 18px;
+left: 830px;
+top: 1746px;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+text-align: center;
+letter-spacing: 0.05em;
+color: #041E50;
+}
+
+#modulo{
+position: absolute;
+width: 218px;
+height: 174px;
+left: 1070px;
+top: 1489px;
+background: url(imagem/modulo);
+}
+
+#titulo4{
+position: absolute;
+width: 149px;
+height: 15px;
+left: 1110px;
+top: 1672px;
+font-family: Lato;
+font-weight: bold;
+font-size: 15px;
+letter-spacing: 0.05em;
+color: #041E50;
+}
+
+#descricao4{
+position: absolute;
+width: 166px;
+height: 30px;
+left: 1110px;
+top: 1699px;
+font-family: Lato;
+font-weight: 300;
+font-size: 10px;
+text-align: center;
+letter-spacing: 0.25em;
+color: #041E50;
+}
+
+#preco4{
+position: absolute;
+width: 102px;
+height: 18px;
+left: 1140px;
+top: 1746px;
+font-family: Lato;
+font-weight: bold;
+font-size: 18px;
+text-align: center;
+letter-spacing: 0.05em;
+color: #041E50;
+}
+
+#prato{
+position: absolute;
+width: 218px;
+height: 174px;
+left: 220px;
+top: 1815px;
+background: url(imagem/prato);
+}
+
+#titulo5{
+position: absolute;
+width: 176px;
+height: 15px;
+left: 250px;
+top: 1999px;
+font-family: Lato;
+font-weight: bold;
+font-size: 15px;
+letter-spacing: 0.05em;
+color: #041E50;
+}
+
+#descricao5{
+position: absolute;
+width: 166px;
+height: 30px;
+left: 245px;
+top: 2026px;
+font-family: Lato;
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+text-align: center;
+letter-spacing: 0.25em;
+color: #041E50;
+}
+
+#preco5{
+position: absolute;
+width: 102px;
+height: 18px;
+left: 275px;
+top: 2073px;
+font-family: Lato;
+font-weight: bold;
+font-size: 18px;
+text-align: center;
+letter-spacing: 0.05em;
+color: #041E50;
+}
+
+#bag{
+position: absolute;
+width: 218px;
+height: 174px;
+left: 500px;
+top: 1816px;
+background: url(imagem/bag);
+}
+
+#titulo6{
+position: absolute;
+width: 185px;
+height: 15px;
+left: 510px;
+top: 1999px;
+font-family: Lato;
+font-weight: bold;
+font-size: 15px;
+letter-spacing: 0.05em;
+color: #041E50;
+}
+
+#descricao6{
+position: absolute;
+width: 166px;
+height: 30px;
+left: 510px;
+top: 2026px;
+font-family: Lato;
+font-weight: 300;
+font-size: 10px;
+text-align: center;
+letter-spacing: 0.25em;
+color: #041E50;
+}
+
+#preco6{
+position: absolute;
+width: 102px;
+height: 18px;
+left: 540px;
+top: 2073px;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+text-align: center;
+letter-spacing: 0.05em;
+color: #041E50;
+}
+
+#banco{
+position: absolute;
+width: 218px;
+height: 174px;
+left: 780px;
+top: 1816px;
+background: url(imagem/banco1);
+}
+
+#titulo7{
+position: absolute;
+width: 139px;
+height: 15px;
+left: 820px;
+top: 1999px;
+font-family: Lato;
+font-weight: bold;
+font-size: 15px;
+letter-spacing: 0.05em;
+color: #041E50;
+}
+
+#descricao7{
+position: absolute;
+width: 166px;
+height: 30px;
+left: 805px;
+top: 2026px;
+font-family: Lato;
+font-weight: 300;
+font-size: 10px;
+text-align: center;
+letter-spacing: 0.25em;
+color: #041E50;
+}
+
+#preco7{
+position: absolute;
+width: 102px;
+height: 18px;
+left: 835px;
+top: 2073px;
+font-family: Lato;
+font-weight: bold;
+font-size: 18px;
+text-align: center;
+letter-spacing: 0.05em;
+color: #041E50;
+}
+
+#pedestal{
+position: absolute;
+width: 218px;
+height: 174px;
+left: 1070px;
+top: 1816px;
+background: url(imagem/pedestal);
+}
+
+#titulo8{
+position: absolute;
+width: 178px;
+height: 15px;
+left: 1105px;
+top: 1999px;
+font-family: Lato;
+font-weight: bold;
+font-size: 15px;
+letter-spacing: 0.05em;
+color: #041E50;
+}
+
+#descricao8{
+position: absolute;
+width: 166px;
+height: 30px;
+left: 1110px;
+top: 2026px;
+font-family: Lato;
+font-weight: 300;
+font-size: 10px;
+text-align: center;
+letter-spacing: 0.25em;
+color: #041E50;
+}
+
+#preco8{
+position: absolute;
+width: 102px;
+height: 18px;
+left: 1140px;
+top: 2073px;
+font-family: Lato;
+font-weight: bold;
+font-size: 18px;
+text-align: center;
+letter-spacing: 0.05em;
+color: #041E50;
+}
+
+#mais{
+position: absolute;
+width: 85px;
+height: 13px;
+left: 750px;
+top: 2170px;
+font-family: Lato;
+font-weight: normal;
+font-size: 13px;
+letter-spacing: 0.1em;
+color: #041E50;
+}
+
+#border{
+position: absolute;
+width: 154px;
+height: 52px;
+left: 710px;
+top: 2151px;
+border: 1px solid #041E50;
+box-sizing: border-box;
+border-radius: 5px;
+}
+
+/*
+.modal{
+position: absolute;
+width: 769px;
+height: 355px;
+left: 400px;
+top: 1550px;
+background: #ffffff;
+border-radius: 5px;
+}
+
+.fechar{
+position: relative;
+width: 769px;
+height: 355px;
+left: 150px;
+top: 150px;
+background: #FFFFFF;
+text-decoration: none;
+height: 0px;
+}
+
+
+#titulom{
+position: absolute;
+width: 278px;
+height: 20px;
+left: 627px;
+top: 1468px;
+font-family: Lato;
+font-weight: normal;
+font-size: 20px;
+letter-spacing: 0.05em;
+color: #041E50;
+}
+
+#precificacao{
+position: absolute;
+width: 113px;
+height: 20px;
+left: 627px;
+top: 1513px;
+font-family: Lato;
+font-style: normal;
+font-weight: 900;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 0.05em;
+color: #041E50;
+}
+
+#desc{
+position: absolute;
+width: 290px;
+height: 22px;
+left: 627px;
+top: 1554px;
+font-family: Lato;
+font-weight: normal;
+font-size: 10px;
+letter-spacing: 0.05em;
+color: #222222;
+}
+
+#maisdetails{
+position: absolute;
+width: 176px;
+height: 12px;
+left: 627px;
+top: 1606px;
+font-family: Lato;
+font-weight: normal;
+font-size: 12px;
+letter-spacing: 0.05em;
+color: #041E50;
+}
+
+
+#btnAdicionar{
+position: absolute;
+width: 164px;
+height: 40px;
+left: 626px;
+top: 1641px;
+background: #041E50;
+color: #FFFFFF;
+font-family: Lato;
+font-style: normal;
+font-weight: bold;
+font-size: 11px;
+text-align:center;
+letter-spacing: 0.05em;
+border-radius: 5px;
+}
+
+#bat{
+position: absolute;
+width: 329px;
+height: 262.6px;
+left: 266px;
+top: 1438px;
+background: url(imagem/bateria_eletronica);
+}
+*/
