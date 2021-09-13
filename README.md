@@ -2,5 +2,9 @@
 
 Olá!
 
-O projeto já foi anexado acima no formato para que seja testado, após realizar o download basta abrir para visualizar.
-Para esse teste utilizei apenas HTML5 e CSS ..
+O projeto foi anexado acima para ser visualizado pelo GitHub mesmo. 
+Também disponibilizei um arquivo compactado para que possam realizar o download. 
+O arquivo compactado também possui as imagens que utilizei no desenvolvimento do site.
+Para esse teste utilizei HTML5 e CSS..
+
+
